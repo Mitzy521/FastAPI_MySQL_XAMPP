@@ -5,7 +5,7 @@ Este es un proyecto de práctica desarrollado con FastAPI para la gestión de us
 
 >Tecnologías Utilizadas
 
-   - Python 3.x
+   - Python
    - FastAPI: Framework web moderno y rápido.
    - MySQL: Sistema de gestión de bases de datos (vía XAMPP).
    - Uvicorn: Servidor ASGI para ejecutar la aplicación.
