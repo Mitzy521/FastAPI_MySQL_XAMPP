@@ -24,7 +24,7 @@ Este es un proyecto de práctica desarrollado con FastAPI para la gestión de us
 >Instalación y Configuración
 
   1. Clonar el repositorio
-        git clone https://github.com/Mitzy521/calculator-api.git
+        git clone https://github.com/Mitzy521/FastAPI_MySQL_XAMPP.git
         cd calculator.api
 
   2. Crear y activar el entorno virtual
